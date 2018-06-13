@@ -1,4 +1,4 @@
-# Wordpress Paddle plugin
+# WordPress Paddle plugin
 
 Import [Paddle](https://paddle.com)'s javascript library, configure vendor settings and easily create checkout buttons.
 
@@ -10,7 +10,7 @@ Paddle does not provide technical support or maintenance for this plugin or any 
 
 ## Instructions
 
-* Upload the plugin as a zipped archive to the Wordpress plugins tab
+* Upload the plugin as a zipped archive to the WordPress plugins tab
 * Activate the plugin
 * Set your vendor ID in the Paddle submenu of the Settings menu
 * Optionally set a custom selector to specify the element that triggers the checkout on click
