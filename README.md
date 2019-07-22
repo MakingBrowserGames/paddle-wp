@@ -23,7 +23,7 @@ To add a standard Paddle-styled button to your page, use the following code, rep
 ```
 To add an unstyled button to your page, you can use:
 ```
-<a href="#!" class="buy-button" data-product="12345">Buy Now!</a>
+<a href="#!" class="buy-button" data-product="12345" data-theme="none">Buy Now!</a>
 ```
 You may also use a different `class` or `id` attribute and update the value of the custom selector above.
 
